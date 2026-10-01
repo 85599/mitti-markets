@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "india-market-news-scraper"
+version = "0.1.0"
+description = "Modular Scrapy crawler for Indian financial and market news publishers."
+requires-python = ">=3.10"
+dependencies = [
+  "scrapy>=2.13,<3",
+  "trafilatura>=2.0,<3",
+  "pandas>=2.2,<3",
+  "pyarrow>=18,<23",
+  "python-dateutil>=2.9,<3",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<9"]
+
+[project.scripts]
+india-news = "india_news.cli:main"
+
+[tool.setuptools.packages.find]
+# The scraper dir also has config/ and tests/ alongside india_news/ — without
+# this, setuptools' flat-layout auto-discovery sees multiple top-level
+# candidates and refuses to build ("Multiple top-level packages discovered").
+include = ["india_news*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+addopts = "-q"

@@ -1,0 +1,22 @@
+sources:
+  moneycontrol:
+    publisher: Moneycontrol
+    robots: https://www.moneycontrol.com/robots.txt
+  economic_times:
+    publisher: Economic Times
+    robots: https://economictimes.indiatimes.com/robots.txt
+  business_standard:
+    publisher: Business Standard
+    robots: https://www.business-standard.com/robots.txt
+  the_hindu:
+    publisher: The Hindu
+    robots: https://www.thehindu.com/robots.txt
+  news18:
+    publisher: News18
+    robots: https://www.news18.com/robots.txt
+  zee_business:
+    publisher: Zee Business
+    robots: https://www.zeebiz.com/robots.txt
+  cnbc_awaaz:
+    publisher: CNBC Awaaz
+    robots: https://hindi.cnbctv18.com/robots.txt

@@ -1,0 +1,6 @@
+scrapy>=2.13,<3
+trafilatura>=2.0,<3
+pandas>=2.2,<3
+pyarrow>=18,<23
+python-dateutil>=2.9,<3
+pytest>=8,<9
