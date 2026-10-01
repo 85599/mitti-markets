@@ -27,20 +27,7 @@
 
 ## Why "Mitti"?
 
-**Mitti** (मिट्टी) — Hindi/Urdu for *soil, earth, the ground under your feet.*
-
-Most market terminals are named after bulls, gods, or Greek letters. This one is named after dirt — because in India, the market doesn't live on a screen. It lives in the ground:
-
-- A **monsoon** rainfall figure moves FMCG stocks before any analyst note does.
-- A **mandi** price in Maharashtra shows up in next quarter's inflation print.
-- A factory strip in Gujarat, a port queue at Mundra, a festival week in Delhi — *those* are the real candles on the chart.
-
-Every ticker is downstream of the mitti. So this desk's job isn't to shout prices — it's to trace every headline back to the ground it grew from. Hence the old tagline, still true: **India, in context.**
-
-Two quieter reasons, for the record:
-
-- ***Mitti ki khushboo*** — the smell of first rain on dry earth; the feeling of coming home. For anyone tracking the Indian economy from far away, this terminal should feel like that.
-- The first build wore a palette of clay, cream and terracotta — dry-earth colours. When the UI was rebuilt as a pro terminal, one thing survived: **the green** — the colour of a field after that first rain. It's now the accent you see on every winning tick.
+*Mitti* (मिट्टी) is Hindi for *soil* — and in India every ticker is downstream of the ground: monsoons, mandis, factories, festivals move markets before any analyst note does. This desk traces each headline back to that ground truth, so the name stays: **market news, in context — not just prices.**
 
 ---
 
