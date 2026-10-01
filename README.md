@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═╝    ╚═╝       ╚═╝    ╚═╝   ::TERMINAL
 ```
 
-**A pro trading terminal for the Indian markets — live indices, a 60-day news wire, and symbol-level intel, in one dark glass pane.**
+**A pro trading news terminal for the Indian markets — live indices, a 60-day news wire, and symbol-level intel, in one dark glass pane.**
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=next.js&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=61dafb)](https://react.dev)
