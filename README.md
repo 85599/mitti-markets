@@ -21,6 +21,12 @@
 
 *No API keys. No paywalls. No stale headlines. Just `pnpm dev` and the desk is open.*
 
+<br/>
+
+![MITTI::TERMINAL live demo](assets/demo.gif)
+
+<sub>Live desk — the wire scrolling, MARKETS lens, and symbol mode pulling up `RELIANCE` with its quote + news.</sub>
+
 </div>
 
 ---
